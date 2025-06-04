@@ -1,1 +1,23 @@
 @import "tailwindcss";
+
+/* :root {
+  --base-color: white;
+  --contrast-color: black;
+  --brand-color: #1071df;
+}
+
+:root.dark {
+  --base-color: black;
+  --contrast-color: white;
+  --brand-color: #1071df;
+}
+
+.bg-base {
+  background-color: var(--base-color);
+}
+.text-contrast {
+  color: var(--contrast-color);
+}
+.bg-brand {
+  background-color: var(--brand-color);
+} */

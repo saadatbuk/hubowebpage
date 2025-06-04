@@ -1,1 +1,44 @@
 @import "tailwindcss";
+
+/* 
+:root {
+  --base-color: white;
+  --contrast-color: black;
+  --brand-color: #1071df;
+  --body-bg: white;
+}
+
+.dark {
+  --base-color: black;
+  --contrast-color: white;
+  --brand-color: #1071df;
+  --body-bg: #0f0f0f; 
+}
+
+
+.bg-base {
+  background-color: var(--base-color);
+}
+.text-contrast {
+  color: var(--contrast-color);
+}
+.bg-brand {
+  background-color: var(--brand-color);
+}
+
+body {
+  background-color: var(--body-bg);
+  color: var(--contrast-color);
+  transition: background-color 0.3s, color 0.3s;
+} */
+
+
+
+
+
+/* img {
+  transition: transform 0.3s ease;
+}
+img:hover {
+  transform: scale(1.05);
+} */
